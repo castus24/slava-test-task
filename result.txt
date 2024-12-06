@@ -1,0 +1,12 @@
+7737 - Line 7737: developer_id William Broy1es does not match the format.
+10023 - Line 10023: developer_id 08/11/1999 does not match the format.
+23635 - The 0 field must be at least 1.
+34118 - Line 34118: developer_id Devlin Close does not match the format.
+34126 - Line 34126: developer_id Destiny Trujillo. does not match the format.
+37755 - The 0 field must be an integer.
+39108 - Line 39108: developer_id 29.02.1989 does not match the format.
+42360 - Line 42360: developer_id 5475795 already exists in the database.
+46082 - Line 46082: developer_id Cassidy_Lytle does not match the format.
+46160 - Line 46160: developer_id 17.04.1997- does not match the format., The 2 field must be a date before or equal to today.
+49316 - Line 49316: developer_id 01.02. 1992 does not match the format.
+59985 - Line 59985: developer_id 11.13.1991 does not match the format.
