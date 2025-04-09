@@ -34,30 +34,18 @@
     php artisan key:generate
    ```
 
-5. Установите библиотеку predis/predis
-
-   ```bash
-   composer require predis/predis
-   ```
-
-6. Установите библиотеку maatwebsite/excel
-
-   ```bash
-   composer require maatwebsite/excel
-   ```
-
-7. Создайте миграцию для таблицы очередей.
+5. Создайте миграцию для таблицы очередей.
 
    ```bash
    php artisan queue:table
    ```
 
-8. Запустите миграции для сидера и для создания таблиц:
+6. Запустите миграции для сидера и для создания таблиц:
 
    ```bash
    php artisan migrate --seed
    ```
-9. Запустите cервер artisan и npm, а также воркер для очередей:
+7. Запустите cервер artisan и npm, а также воркер для очередей:
 
    ```
    php artisan serve
